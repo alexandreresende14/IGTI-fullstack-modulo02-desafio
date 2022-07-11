@@ -1,6 +1,7 @@
 # IGTI-fullstack-modulo02-desafio
 Desafio modulo 02 curso Fullstack IGTI - Criação de API
 
+OBS: Necessário instalar os pacotes express, cors, winston e swagger-ui-express.
 A API pode ser testada em "localhost:3000/doc".
 
 Abaixo a descrição do desafio que tive que implementar
